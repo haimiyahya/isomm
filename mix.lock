@@ -1,0 +1,3 @@
+%{
+  "elixir_iso8583": {:git, "https://github.com/haimiyahya/Elixir-ISO8583.git", "bdfc7d3c05d8f1faa860802ff3fed8a467283744", []},
+}
